@@ -636,4 +636,3 @@
 87.236.176.53
 45.159.228.152
 185.247.137.123
-PHP CGI Query String Parameter Handling Information Disclosure Vulnerability
